@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
