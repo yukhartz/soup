@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
