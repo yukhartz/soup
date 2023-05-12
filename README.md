@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Add docs links to all dataset YAMLs (#7360)
