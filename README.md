@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Add new YOLOv8 OBB model metrics (#7379)
