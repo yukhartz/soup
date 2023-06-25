@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Fix IS_PYTHON_3_12 bug (#9258)
