@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Fix docker.yaml double-quote version bug (#7452)
