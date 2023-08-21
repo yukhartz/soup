@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+YAML reformat (#7669)
