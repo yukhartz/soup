@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Add YOLOv8 LibTorch C++ inference example (#7090)
