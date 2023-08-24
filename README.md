@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Update the heatmap module code + docs (#7045)
