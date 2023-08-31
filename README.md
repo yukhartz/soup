@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
