@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Mkdocs updates (#8008)
