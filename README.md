@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Update docs building code (#7601)
