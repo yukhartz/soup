@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Avoid creating -hub dir without processing images (#8334)
