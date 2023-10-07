@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
