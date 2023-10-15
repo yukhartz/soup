@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Add PR Summary step to Ultralytics Actions (#7675)
