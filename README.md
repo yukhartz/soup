@@ -1,1 +1,1 @@
-fix val each epoch
+added badges (#45)
