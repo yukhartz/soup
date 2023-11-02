@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
