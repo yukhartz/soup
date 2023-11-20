@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
