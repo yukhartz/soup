@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Update Docs Home and Neural Magic pages (#7243)
