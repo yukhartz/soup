@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Add horizontal Mosaic3 augmentation (#6898)
