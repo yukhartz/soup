@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Update the heatmap module code + docs (#7045)
