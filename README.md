@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Fix PIL show() and save() (#8202)
