@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
