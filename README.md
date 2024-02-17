@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Add Amazon Sagemaker Docs integrations page (#7293)
