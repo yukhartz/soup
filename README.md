@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Fix RTDETR generate anchor grid out of boundary (#7247)
