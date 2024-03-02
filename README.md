@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Hold failed upload metrics and upload with next upload metrics (#8513)
