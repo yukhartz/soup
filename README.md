@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+TensorRT FP16 export with dynamic=True (#7870)
