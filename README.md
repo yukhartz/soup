@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
