@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Expand Model method type hinting (#8279)
