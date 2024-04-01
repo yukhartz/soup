@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Add integrations/gradio Docs page (#7935)
