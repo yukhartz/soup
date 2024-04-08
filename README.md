@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
