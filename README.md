@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
