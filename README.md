@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
