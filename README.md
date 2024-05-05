@@ -1,1 +1,1 @@
-add yolov10
+Improve Coral Edge TPU guide (#8160)
