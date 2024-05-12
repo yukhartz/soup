@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
