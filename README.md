@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+OpenVino 2024.0.0 (#8726)
