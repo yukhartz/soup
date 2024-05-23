@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+YOLOv8 INT8 TFLite Inference Example (#7317)
