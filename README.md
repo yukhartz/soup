@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
