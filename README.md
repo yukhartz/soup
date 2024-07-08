@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Optimize function calls to method calls (#8507)
