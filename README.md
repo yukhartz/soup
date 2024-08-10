@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+OBB: Fix plot_images (#7592)
