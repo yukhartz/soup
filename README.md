@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Improve Docs arguments tables (#8415)
