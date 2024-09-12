@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Use pathlib in DOTA ops (#7552)
