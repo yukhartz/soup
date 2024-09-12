@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Optimize function calls to method calls (#8507)
