@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
