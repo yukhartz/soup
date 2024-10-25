@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
