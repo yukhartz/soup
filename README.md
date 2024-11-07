@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+fix yolo classify model loading error (#9196)
